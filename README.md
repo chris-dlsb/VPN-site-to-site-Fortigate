@@ -1,4 +1,4 @@
-# VPN Site-to-Site con FortiGate - Proyecto Final P1
+# VPN Site-to-Site con FortiGate 
 **Estudiante:** Cristopher de los Santos  
 **Matrícula:** 2024-1414  
 
