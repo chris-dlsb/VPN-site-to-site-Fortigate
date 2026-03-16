@@ -14,7 +14,8 @@ Se ha diseñado una topología en GNS3 que consta de:
 * **Router IOU:** Actúa como el ISP principal.
 * **Nodos Finales:** VPCS y WebTerm para pruebas de conectividad.
 
-> ![Insertar aquí captura de tu topología de GNS3]
+<img width="725" height="433" alt="image" src="https://github.com/user-attachments/assets/fe24dadd-4d64-474d-b33c-51304b6bd2bb" />
+
 
 ### Tabla de Direccionamiento (Basada en Matrícula 2024-1414)
 | Dispositivo | Interfaz | Dirección IP | Descripción |
@@ -57,11 +58,7 @@ Se realizaron pruebas de conectividad desde los hosts finales para validar el t�
 ### Trace-route
 En la traza se observa que el tráfico salta directamente de la red local a la remota, confirmando la encapsulación de los datos sobre el ISP.
 
-<img width="494" height="102" alt="image" src="https://github.com/user-attachments/assets/4b34c50b-4ca2-42ef-8924-7ecaf0d34878" />
+<img width="1101" height="492" alt="image" src="https://github.com/user-attachments/assets/cafe71d9-525c-409d-a724-baedb295bea4" />
 
-
----
-
-## 5. Archivos del Proyecto
-* [Documentación en PDF](./CristopherDelosSantos_2024-1414_Informe_P1.pdf)
-* [Video de Demostración](Enlace_a_Youtube_o_GoogleDrive)
+enlace del video en: Link_del_video.md
+configuraciones en: configuracion.md
